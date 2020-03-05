@@ -6,3 +6,4 @@ Version: 4.9
 * center
 * border
 * highlight
+* mouse-support
