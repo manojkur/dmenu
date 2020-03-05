@@ -5,3 +5,4 @@ Version: 4.9
 ## Patches
 * center
 * border
+* highlight
