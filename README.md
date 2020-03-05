@@ -7,3 +7,4 @@ Version: 4.9
 * border
 * highlight
 * mouse-support
+* numbers
